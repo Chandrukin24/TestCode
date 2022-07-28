@@ -1,5 +1,4 @@
 3+ years of Experience in Test Automation Using Selenium
-
 Understanding and Analyzing the Application Under Test in terms of Object Identification - selenium automation testing roles and responsibilities
 Creating Test scenarios and Collecting Test Data.
 Identifying end-to-end scenarios and code modularity.
