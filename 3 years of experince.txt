@@ -13,3 +13,5 @@ Defining and exporting Test Results.
 Analyzing Test Results and Reporting Defects.
 Tracking Defects and Select Test cases for Re & Regression Testing.
 Modifying Test Automation Resources and Maintenance of Resources.
+Audio
+Video
